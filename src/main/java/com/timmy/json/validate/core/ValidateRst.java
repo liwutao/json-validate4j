@@ -1,13 +1,5 @@
 package com.timmy.json.validate.core;
 
-/**
- * Copyright @2015 海尔集团 All rights reserved.
- * 广科数字技术有限公司专有/保密源代码,未经许可禁止任何人通过任何渠道使用、修改源代码.
- *
- * 该类用于描述实现了{@link Validatable}接口对象的校验结果
- * @author LIWT
- * @create 2015年11月16日 下午3:33:30
- */
 public class ValidateRst {
 	String MSGKEY_OPERATION_SUC = "00000";
     /**

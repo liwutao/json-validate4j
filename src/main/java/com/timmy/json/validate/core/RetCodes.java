@@ -1,10 +1,5 @@
 package com.timmy.json.validate.core;
 
-/**
- * 统一定义系统的返回码和信息
- * @author jiangp
- *
- */
 public interface RetCodes {
 	
 	/**

@@ -3,14 +3,6 @@ package com.timmy.json.validate.core;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Copyright @2015 海尔集团 All rights reserved.
- * 广科数字技术有限公司专有/保密源代码,未经许可禁止任何人通过任何渠道使用、修改源代码.
- *
- * 该类型负责需要参与JSON校验的javabean对应校验模板管理，提供模板注册和获取能力
- * @author LIWT
- * @create 2015年12月23日下午7:21:11
- */
 public class JSONFormatManager {
     private static final JSONFormatManager INSTANCE = new JSONFormatManager();
     private Map<String, JSONSchema> schemas = new HashMap<String, JSONSchema>();

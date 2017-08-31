@@ -17,14 +17,6 @@ import com.timmy.utils.common.StrUtil;
 import net.sf.json.JSONException;
 import net.sf.json.JSONObject;
 
-/**
- * Copyright @2015 海尔集团 All rights reserved.
- * 广科数字技术有限公司专有/保密源代码,未经许可禁止任何人通过任何渠道使用、修改源代码.<br><br>
- *
- * 该类型描述需要参与JSON格式校验的javabean的校验模板，一个JavaBean类对应一个校验模板实例
- * @author LIWT
- * @create 2015年12月23日下午7:22:43
- */
 public class JSONSchema {
     /**
      * 模板名称--也就是javabean的类名

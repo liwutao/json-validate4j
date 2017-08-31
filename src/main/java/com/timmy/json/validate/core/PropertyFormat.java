@@ -11,14 +11,6 @@ import org.slf4j.LoggerFactory;
 import com.timmy.json.validate.exception.JSONValidateException;
 import com.timmy.utils.common.StrUtil;
 
-/**
- * Copyright @2015 海尔集团 All rights reserved.
- * 广科数字技术有限公司专有/保密源代码,未经许可禁止任何人通过任何渠道使用、修改源代码.
- *
- * 该类描述JSON字符串中一个属性的校验规则，根据JSON对应的javabean中的注解完成实例化，可以完成对对应属性的校验。
- * @author LIWT
- * @create 2015年12月23日下午7:25:46
- */
 public class PropertyFormat {
     private static final Logger LOGGER = LoggerFactory.getLogger(PropertyFormat.class);
     /**

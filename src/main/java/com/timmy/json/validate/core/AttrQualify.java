@@ -3,14 +3,6 @@ package com.timmy.json.validate.core;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
-/**
- * Copyright @2015 海尔集团 All rights reserved.
- * 广科数字技术有限公司专有/保密源代码,未经许可禁止任何人通过任何渠道使用、修改源代码.
- *
- * 该注解用于标注需要校验的类属性，提供基本的校验选项
- * @author LIWT
- * @create 2015年12月23日下午7:18:00
- */
 @Retention(RetentionPolicy.RUNTIME)
 public @interface AttrQualify {
     /**
