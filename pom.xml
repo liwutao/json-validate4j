@@ -4,7 +4,7 @@
   <artifactId>json-validate4j</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>json-validate4j</name>
-  <description>Provide solution for java application to validate JSON data recieved from outer system.</description>
+  <description>Provide solution for java application to validate JSON data received from outer system.</description>
   
   
   <dependencies>
